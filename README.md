@@ -1,5 +1,5 @@
 Github Repos Showing
-Simple Github Repository showing app using Node.js and Redis
+Simple Github Repository showing app using Node.js and Redis..
 
 Version
 1.0.0
